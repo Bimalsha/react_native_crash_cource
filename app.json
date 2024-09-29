@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "react_native_crash_cource",
-    "slug": "react_native_crash_cource",
+    "name": "Aura",
+    "slug": "aura",
+    "scheme": "aura",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
